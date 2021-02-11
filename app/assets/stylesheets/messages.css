@@ -154,3 +154,7 @@ margin-bottom: 40px;
 .hidden {
   display: none;
 }
+
+.field_with_errors {
+  display: contents;
+}
